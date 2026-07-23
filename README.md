@@ -2,7 +2,7 @@
 
 I build agentic systems: autonomous pipelines that run unattended, MCP servers, and AI-native workflows where agents do the heavy lifting. Prototype today, ship this week, let it run.
 
-Day job: consultant at [Spirhed](https://github.com/Spirhed) on Microsoft security and Azure hybrid platforms (Defender XDR, Sentinel, Azure Local). Most of what I automate started as real friction in that work.
+Day job: consultant on Microsoft security and Azure hybrid platforms (Defender XDR, Sentinel, Azure Local). Most of what I automate started as real friction in that work.
 
 ## What I'm running and building
 
